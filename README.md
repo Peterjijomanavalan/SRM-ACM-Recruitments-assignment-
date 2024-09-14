@@ -8,7 +8,7 @@ This project is a simple, visually appealing landing page inspired by Flickr. It
 
 ## File Structure
 
-- index.html: The HTML file containing the structure of the landing page.
+- fliker landing page.html: The HTML file containing the structure of the landing page.
 - fliker.css: The CSS file defining the styles for the page.
 - Flickr-Logo-PNG-Free-Download.png: The logo image used in the header.
 - flicker img.png: Another logo image used in the header.
@@ -16,7 +16,7 @@ This project is a simple, visually appealing landing page inspired by Flickr. It
 
 ## HTML
 
-### index.html
+### fliker landing page.html
 
 This file sets up the structure of the landing page. It includes:
 
